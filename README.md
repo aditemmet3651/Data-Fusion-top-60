@@ -370,10 +370,3 @@ TABM_N_RES_BLOCKS = 3
 TABM_MIXUP_ALPHA = 0.2
 ```
 
----
-
-
-
-*Призовой фонд: 🥇 500K ₽ · 🥈 300K ₽ · 🥉 100K ₽*
-
-</div>
